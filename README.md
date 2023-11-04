@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvit100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Latest projects:
+
+- [Animated business card](https://apeirocomp.ru)
 - [Digital platform](http://dnk.ivanvit.ru)
 - [Functionally WEB-based calculator](https://calc.ivanvit.ru)
-- [My first simple AI](https://ai.ivanvit.ru)
