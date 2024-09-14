@@ -5,7 +5,8 @@
   <div align="left">
   <br>
   
-  - I’m working as a Frontend Developer in [APEIRO](https://vk.com/apeirocomp) <img src="https://apeirocomp.ru/static/images/logo.png" height="15px"></img> company and contributing to frontend and backend for building web applications.
+  - I’m worked as a Frontend Developer in [APEIRO](https://vk.com/apeirocomp) <img src="https://apeirocomp.ru/static/images/logo.png" height="15px"></img> company and contributing to frontend and backend for building web applications.
+  - I'm currently working as a programmer at [Kazan Federal University](https://kpfu.ru/vitaliy.ivanushhenko&p_lang=2).
   - In my spare time I study new technologies, learn different development practices, improve my skills, get interested in neural networks, work on pet projects.
   - I enjoy attending various community events in the professional field.
   - I use Arch btw <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x1945-1wcv3hw6.png" height="15px"></img>
