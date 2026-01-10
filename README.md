@@ -48,7 +48,7 @@
 <div>
   <h2>My Stats:</h2>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivanvit100&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=FF7F26&ring=FF7F26&currStreakLabel=EA8000&sideNums=FFC33D&background=333333)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ivanvit100&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=FF7F26&ring=FF7F26&currStreakLabel=EA8000&sideNums=FFC33D&background=333333)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvit100&layout=compact&theme=darcula&hide=html,css,PLpgSQL,Rust,php)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ivanvit100&layout=compact&theme=darcula&hide=html,css,PLpgSQL,Rust,php)](https://github.com/anuraghazra/github-readme-stats)
 </div>
