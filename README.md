@@ -4,9 +4,9 @@
   <h5 align="center">Web-developer from Russia</h3>
   <div align="left">
   <br>
-  
-  - I’m worked as a Frontend Developer in [APEIRO](https://vk.com/apeirocomp) company and contributing to frontend and backend for building web applications.
-  - I'm currently working as a programmer at [Kazan Federal University](https://kpfu.ru/vitaliy.ivanushhenko&p_lang=2).
+
+  - Admin on the [🦊Foxford](https://foxford.ru) team
+  - I’m worked as a Frontend Developer in [APEIRO](https://apeirocomp.ru/) company and as a programmer at [Kazan Federal University](https://kpfu.ru).
   - In my spare time I study new technologies, learn different development practices, improve my skills, get interested in neural networks, work on pet projects.
   - I enjoy attending various community events in the professional field.
   - I use Arch btw
