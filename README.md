@@ -4,12 +4,13 @@
   <h5 align="center">Web-developer from Russia</h3>
   <div align="left">
   <br>
-
-  - Admin on the [🦊Foxford](https://foxford.ru) team
-  - I’m worked as a Frontend Developer in [APEIRO](https://apeirocomp.ru/) company and as a programmer at [Kazan Federal University](https://kpfu.ru).
-  - In my spare time I study new technologies, learn different development practices, improve my skills, get interested in neural networks, work on pet projects.
-  - I enjoy attending various community events in the professional field.
-  - I use Arch btw
+  <ul>
+  <li>Admin on the 🦊<a href="https://foxford.ru">Foxford</a> team.</li>
+  <li>I’m worked as a Frontend Developer in <a href="https://apeirocomp.ru/">APEIRO</a> company and as a programmer at <a href="https://kpfu.ru">Kazan Federal University</a>.</li>
+  <li>In my spare time I study new technologies, learn different development practices, improve my skills, get interested in neural networks, work on pet projects.</li>
+  <li>I enjoy attending various community events in the professional field.</li>
+  <li>I use <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" **alt="Arch" width="15" height="15"/>&nbsp;Arch btw</li>
+  </ul>
 
   </div>
 </div>
@@ -41,6 +42,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" **alt="SASS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" **alt="Vitest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" **alt="ESLint" width="40" height="40"/>&nbsp;
   </div>
 </div>
 <br>
