@@ -83,7 +83,7 @@
 </table>
 
 <a href="https://github-readme-activity-graph.vercel.app">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanvit100&bg_color=333333&color=FFC33D&line=FF7F26&point=EA8000&area=true&area_color=FF7F26&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
+  <img src="./profile/activity-graph.svg" alt="Activity Graph" width="100%"/>
 </a>
 
 </div>
