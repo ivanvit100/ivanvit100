@@ -23,6 +23,7 @@
 - 🦊 Admin at [Foxford](https://foxford.ru) — one of Russia's leading online education platforms
 - 💼 In past: Frontend Developer at [APEIRO](https://apeirocomp.ru/) and programmer at [Kazan Federal University](https://kpfu.ru)
 - 🌱 Currently deepening expertise in **Svelte** and **TypeScript**
+- 🚀 I'm pursuing a master's degree in AI engineering
 - 🎤 Regular attendee of professional community events and meetups
 - <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch" width="15" height="15"/> I use Arch btw
 
